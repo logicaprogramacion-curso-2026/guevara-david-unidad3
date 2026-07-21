@@ -1,8 +1,8 @@
 # [Nombre del proyecto]
 
-**Alumno:** [Apellido, Nombre]
-**Curso:** [Nombre del curso]
-**Fecha de inicio:** [dd/mm/aaaa]
+**Alumno:** Guevara, David
+**Curso:** Logica de Programacion
+**Fecha de inicio:** 20/07/2026
 
 ## 1. Objetivo del proyecto
 
