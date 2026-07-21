@@ -1,7 +1,7 @@
 class docente:
     def __init__(self, 
-                 nombre=None,
+                 nombre,
                  direccion=None,
                  telefono=None,
-                 email=None):
+                 correo=None):
         print("Constructor con argumentos")
