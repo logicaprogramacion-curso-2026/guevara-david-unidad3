@@ -1,0 +1,841 @@
+================================================================================
+                    CUESTIONARIO DE PROGRAMACIÓN EN PYTHON
+                    50 PREGUNTAS DE SELECCIÓN MÚLTIPLE
+================================================================================
+
+TOTAL DE PREGUNTAS: 50
+NIVEL: Básico-Intermedio
+TEMAS: Operadores Aritméticos, Funciones Built-in, Listas, Strings, 
+       Tipos de Datos, Bucles, Diccionarios, entre otros.
+
+================================================================================
+PREGUNTA #1
+--------------------------------------------------------------------------------
+ID: 1
+Tema: Operadores Aritméticos
+Dificultad: Fácil
+Enunciado: ¿Cuál es la salida de print(5 // 2)?
+
+Opciones:
+A) 2.5
+B) 2
+C) 3
+D) 2.0
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #2
+--------------------------------------------------------------------------------
+ID: 2
+Tema: Funciones Built-in
+Dificultad: Fácil
+Enunciado: ¿Qué función obtiene la longitud de una lista?
+
+Opciones:
+A) size()
+B) length()
+C) len()
+D) count()
+
+Respuesta Correcta: C
+--------------------------------------------------------------------------------
+
+PREGUNTA #3
+--------------------------------------------------------------------------------
+ID: 3
+Tema: Operadores Aritméticos
+Dificultad: Fácil
+Enunciado: ¿Cuál es el resultado de 3 ** 2?
+
+Opciones:
+A) 6
+B) 8
+C) 9
+D) 12
+
+Respuesta Correcta: C
+--------------------------------------------------------------------------------
+
+PREGUNTA #4
+--------------------------------------------------------------------------------
+ID: 4
+Tema: Listas
+Dificultad: Fácil
+Enunciado: ¿Qué método agrega un elemento al final de una lista?
+
+Opciones:
+A) add()
+B) append()
+C) insert()
+D) push()
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #5
+--------------------------------------------------------------------------------
+ID: 5
+Tema: Bucles
+Dificultad: Media
+Enunciado: ¿Cuál es la salida de for i in range(3): print(i, end=' ')?
+
+Opciones:
+A) 0 1 2
+B) 1 2 3
+C) 0 1 2 3
+D) 1 2 3 4
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #6
+--------------------------------------------------------------------------------
+ID: 6
+Tema: Funciones
+Dificultad: Fácil
+Enunciado: ¿Qué palabra clave define una función?
+
+Opciones:
+A) function
+B) def
+C) define
+D) func
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #7
+--------------------------------------------------------------------------------
+ID: 7
+Tema: Listas
+Dificultad: Media
+Enunciado: ¿Cuál es la salida de lista[1]=5 en [1,2,3]?
+
+Opciones:
+A) [1,2,3]
+B) [5,2,3]
+C) [1,5,3]
+D) Error
+
+Respuesta Correcta: C
+--------------------------------------------------------------------------------
+
+PREGUNTA #8
+--------------------------------------------------------------------------------
+ID: 8
+Tema: Operadores de Identidad
+Dificultad: Media
+Enunciado: ¿Qué hace el operador 'is'?
+
+Opciones:
+A) Compara valores
+B) Compara identidad
+C) Compara tipos
+D) Compara igualdad
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #9
+--------------------------------------------------------------------------------
+ID: 9
+Tema: Diccionarios
+Dificultad: Fácil
+Enunciado: ¿Cómo se crea un diccionario?
+
+Opciones:
+A) {1,2,3}
+B) [1,2,3]
+C) {'nombre': 'Juan'}
+D) ('nombre','Juan')
+
+Respuesta Correcta: C
+--------------------------------------------------------------------------------
+
+PREGUNTA #10
+--------------------------------------------------------------------------------
+ID: 10
+Tema: Entrada/Salida
+Dificultad: Fácil
+Enunciado: ¿Qué función lee entrada del usuario?
+
+Opciones:
+A) read()
+B) input()
+C) scan()
+D) get()
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #11
+--------------------------------------------------------------------------------
+ID: 11
+Tema: Tipos de Datos
+Dificultad: Media
+Enunciado: ¿Cuál es la salida de bool([])?
+
+Opciones:
+A) True
+B) False
+C) Error
+D) None
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #12
+--------------------------------------------------------------------------------
+ID: 12
+Tema: Listas
+Dificultad: Media
+Enunciado: ¿Qué método elimina el último elemento de una lista?
+
+Opciones:
+A) remove()
+B) pop()
+C) delete()
+D) discard()
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #13
+--------------------------------------------------------------------------------
+ID: 13
+Tema: Strings
+Dificultad: Fácil
+Enunciado: ¿Cuál es el resultado de 'Hola' * 2?
+
+Opciones:
+A) 'HolaHola'
+B) 'Hola2'
+C) Error
+D) 'Hola Hola'
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #14
+--------------------------------------------------------------------------------
+ID: 14
+Tema: Manejo de Errores
+Dificultad: Media
+Enunciado: ¿Qué palabra clave se usa para manejar excepciones?
+
+Opciones:
+A) try
+B) catch
+C) except
+D) throw
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #15
+--------------------------------------------------------------------------------
+ID: 15
+Tema: Funciones Built-in
+Dificultad: Media
+Enunciado: ¿Cuál es la salida de len(range(5))?
+
+Opciones:
+A) 4
+B) 5
+C) 6
+D) Error
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #16
+--------------------------------------------------------------------------------
+ID: 16
+Tema: Listas
+Dificultad: Fácil
+Enunciado: ¿Cómo se accede al primer elemento de una lista llamada 'datos'?
+
+Opciones:
+A) datos[0]
+B) datos[1]
+C) datos.first()
+D) datos[0:]
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #17
+--------------------------------------------------------------------------------
+ID: 17
+Tema: Conversión de Tipos
+Dificultad: Fácil
+Enunciado: ¿Qué función convierte un string a entero?
+
+Opciones:
+A) str()
+B) int()
+C) float()
+D) char()
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #18
+--------------------------------------------------------------------------------
+ID: 18
+Tema: Operadores Aritméticos
+Dificultad: Fácil
+Enunciado: ¿Cuál es la salida de print(10 % 3)?
+
+Opciones:
+A) 1
+B) 3
+C) 0
+D) 2
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #19
+--------------------------------------------------------------------------------
+ID: 19
+Tema: Strings
+Dificultad: Media
+Enunciado: ¿Qué método convierte una lista en un string?
+
+Opciones:
+A) join()
+B) split()
+C) concat()
+D) merge()
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #20
+--------------------------------------------------------------------------------
+ID: 20
+Tema: Tipos de Datos
+Dificultad: Fácil
+Enunciado: ¿Cuál es la salida de type([])?
+
+Opciones:
+A) list
+B) array
+C) tuple
+D) dict
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #21
+--------------------------------------------------------------------------------
+ID: 21
+Tema: Strings
+Dificultad: Fácil
+Enunciado: ¿Qué operador se usa para concatenar strings?
+
+Opciones:
+A) +
+B) &
+C) .
+D) *
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #22
+--------------------------------------------------------------------------------
+ID: 22
+Tema: Strings
+Dificultad: Fácil
+Enunciado: ¿Cuál es la salida de 'Python'[0]?
+
+Opciones:
+A) P
+B) y
+C) t
+D) h
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #23
+--------------------------------------------------------------------------------
+ID: 23
+Tema: Listas
+Dificultad: Media
+Enunciado: ¿Qué método cuenta las ocurrencias de un elemento en una lista?
+
+Opciones:
+A) count()
+B) len()
+C) size()
+D) total()
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #24
+--------------------------------------------------------------------------------
+ID: 24
+Tema: Comparaciones
+Dificultad: Media
+Enunciado: ¿Cuál es la salida de 5 == 5.0?
+
+Opciones:
+A) True
+B) False
+C) Error
+D) None
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #25
+--------------------------------------------------------------------------------
+ID: 25
+Tema: Programación Orientada a Objetos
+Dificultad: Fácil
+Enunciado: ¿Qué palabra clave se usa para crear una clase?
+
+Opciones:
+A) class
+B) object
+C) def
+D) struct
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #26
+--------------------------------------------------------------------------------
+ID: 26
+Tema: Operadores Aritméticos
+Dificultad: Fácil
+Enunciado: ¿Cuál es la salida de print(2 * 3 + 4)?
+
+Opciones:
+A) 10
+B) 14
+C) 12
+D) 16
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #27
+--------------------------------------------------------------------------------
+ID: 27
+Tema: Sintaxis Básica
+Dificultad: Fácil
+Enunciado: ¿Cómo se comenta una línea en Python?
+
+Opciones:
+A) //
+B) #
+C) /*
+D) --
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #28
+--------------------------------------------------------------------------------
+ID: 28
+Tema: Listas
+Dificultad: Media
+Enunciado: ¿Qué método ordena una lista?
+
+Opciones:
+A) sort()
+B) order()
+C) arrange()
+D) sorted()
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #29
+--------------------------------------------------------------------------------
+ID: 29
+Tema: Tipos de Datos
+Dificultad: Media
+Enunciado: ¿Cuál es la salida de bool('')?
+
+Opciones:
+A) True
+B) False
+C) Error
+D) None
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #30
+--------------------------------------------------------------------------------
+ID: 30
+Tema: Funciones Built-in
+Dificultad: Fácil
+Enunciado: ¿Qué función devuelve el valor absoluto de un número?
+
+Opciones:
+A) abs()
+B) absolute()
+C) mod()
+D) pos()
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #31
+--------------------------------------------------------------------------------
+ID: 31
+Tema: Strings
+Dificultad: Fácil
+Enunciado: ¿Cuál es la salida de len('Python')?
+
+Opciones:
+A) 5
+B) 6
+C) 7
+D) 8
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #32
+--------------------------------------------------------------------------------
+ID: 32
+Tema: Variables
+Dificultad: Fácil
+Enunciado: ¿Cómo se declara una variable en Python?
+
+Opciones:
+A) var x = 5
+B) x = 5
+C) int x = 5
+D) $x = 5
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #33
+--------------------------------------------------------------------------------
+ID: 33
+Tema: Funciones Built-in
+Dificultad: Fácil
+Enunciado: ¿Cuál es la salida de max([1,5,3])?
+
+Opciones:
+A) 1
+B) 3
+C) 5
+D) 8
+
+Respuesta Correcta: C
+--------------------------------------------------------------------------------
+
+PREGUNTA #34
+--------------------------------------------------------------------------------
+ID: 34
+Tema: Listas
+Dificultad: Media
+Enunciado: ¿Qué método elimina un elemento por su valor?
+
+Opciones:
+A) remove()
+B) pop()
+C) delete()
+D) discard()
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #35
+--------------------------------------------------------------------------------
+ID: 35
+Tema: Operadores Aritméticos
+Dificultad: Fácil
+Enunciado: ¿Cuál es la salida de print(2 ** 3)?
+
+Opciones:
+A) 6
+B) 8
+C) 9
+D) 12
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #36
+--------------------------------------------------------------------------------
+ID: 36
+Tema: Funciones Built-in
+Dificultad: Fácil
+Enunciado: ¿Qué función devuelve el número de elementos de un objeto?
+
+Opciones:
+A) len()
+B) count()
+C) size()
+D) length()
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #37
+--------------------------------------------------------------------------------
+ID: 37
+Tema: Tipos de Datos
+Dificultad: Media
+Enunciado: ¿Cuál es la salida de bool([1,2,3])?
+
+Opciones:
+A) True
+B) False
+C) Error
+D) None
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #38
+--------------------------------------------------------------------------------
+ID: 38
+Tema: Listas
+Dificultad: Media
+Enunciado: ¿Cómo se accede al último elemento de una lista?
+
+Opciones:
+A) lista[-1]
+B) lista[último]
+C) lista[-2]
+D) lista[0]
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #39
+--------------------------------------------------------------------------------
+ID: 39
+Tema: Operadores de Comparación
+Dificultad: Fácil
+Enunciado: ¿Qué operador se usa para comparar si dos valores son iguales?
+
+Opciones:
+A) =
+B) ==
+C) ===
+D) !=
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #40
+--------------------------------------------------------------------------------
+ID: 40
+Tema: Strings
+Dificultad: Media
+Enunciado: ¿Cuál es la salida de 'Python'[::-1]?
+
+Opciones:
+A) 'nohtyP'
+B) 'Python'
+C) 'noht yP'
+D) 'Pyt hon'
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #41
+--------------------------------------------------------------------------------
+ID: 41
+Tema: Conversión de Tipos
+Dificultad: Fácil
+Enunciado: ¿Qué función convierte un número a string?
+
+Opciones:
+A) str()
+B) int()
+C) float()
+D) char()
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #42
+--------------------------------------------------------------------------------
+ID: 42
+Tema: Operadores Aritméticos
+Dificultad: Fácil
+Enunciado: ¿Cuál es la salida de 7 // 3?
+
+Opciones:
+A) 2
+B) 2.33
+C) 3
+D) 2.0
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #43
+--------------------------------------------------------------------------------
+ID: 43
+Tema: Tuplas
+Dificultad: Fácil
+Enunciado: ¿Cómo se crea una tupla?
+
+Opciones:
+A) (1,2,3)
+B) [1,2,3]
+C) {1,2,3}
+D) [1,2,3]
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #44
+--------------------------------------------------------------------------------
+ID: 44
+Tema: Listas
+Dificultad: Media
+Enunciado: ¿Qué método agrega todos los elementos de una lista a otra?
+
+Opciones:
+A) extend()
+B) append()
+C) add()
+D) merge()
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #45
+--------------------------------------------------------------------------------
+ID: 45
+Tema: Funciones Built-in
+Dificultad: Fácil
+Enunciado: ¿Cuál es la salida de sum([1,2,3])?
+
+Opciones:
+A) 5
+B) 6
+C) 7
+D) 8
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #46
+--------------------------------------------------------------------------------
+ID: 46
+Tema: Bucles
+Dificultad: Fácil
+Enunciado: ¿Qué palabra clave se usa para salir de un bucle?
+
+Opciones:
+A) exit
+B) break
+C) continue
+D) return
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #47
+--------------------------------------------------------------------------------
+ID: 47
+Tema: Strings
+Dificultad: Media
+Enunciado: ¿Cuál es la salida de 'Python'[1:4]?
+
+Opciones:
+A) yth
+B) Pyt
+C) hon
+D) ytho
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #48
+--------------------------------------------------------------------------------
+ID: 48
+Tema: Operadores de Pertenencia
+Dificultad: Fácil
+Enunciado: ¿Qué operador verifica si un elemento está en una lista?
+
+Opciones:
+A) in
+B) has
+C) contains
+D) inside
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+PREGUNTA #49
+--------------------------------------------------------------------------------
+ID: 49
+Tema: Funciones Built-in
+Dificultad: Fácil
+Enunciado: ¿Cuál es la salida de print(round(3.7))?
+
+Opciones:
+A) 3
+B) 4
+C) 3.5
+D) 4.0
+
+Respuesta Correcta: B
+--------------------------------------------------------------------------------
+
+PREGUNTA #50
+--------------------------------------------------------------------------------
+ID: 50
+Tema: Conversión de Tipos
+Dificultad: Media
+Enunciado: ¿Qué método convierte un string a lista de caracteres?
+
+Opciones:
+A) list()
+B) split()
+C) char()
+D) toList()
+
+Respuesta Correcta: A
+--------------------------------------------------------------------------------
+
+================================================================================
+                              ESTADÍSTICAS
+================================================================================
+Total de preguntas: 50
+Por dificultad:
+  - Fácil: 30 preguntas
+  - Media: 20 preguntas
+  - Difícil: 0 preguntas
+
+Por tema:
+  - Operadores Aritméticos: 6
+  - Funciones Built-in: 6
+  - Listas: 8
+  - Strings: 6
+  - Tipos de Datos: 4
+  - Bucles: 2
+  - Funciones: 1
+  - Diccionarios: 1
+  - Entrada/Salida: 1
+  - Operadores de Identidad: 1
+  - Manejo de Errores: 1
+  - Conversión de Tipos: 3
+  - Comparaciones: 1
+  - Programación Orientada a Objetos: 1
+  - Sintaxis Básica: 1
+  - Variables: 1
+  - Operadores de Comparación: 1
+  - Tuplas: 1
+  - Operadores de Pertenencia: 1
+================================================================================
