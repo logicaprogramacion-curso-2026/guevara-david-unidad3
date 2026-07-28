@@ -1,4 +1,3 @@
-# src/respuesta_usuario_dao.py
 from respuesta_usuario import RespuestaUsuario
 import datetime
 
