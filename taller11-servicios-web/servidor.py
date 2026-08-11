@@ -24,35 +24,57 @@ class Pagina:
     padding: 32px 40px;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    text-align: center;
-    min-width: 320px;
+    width: 480px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
   .code {
+    width: 100%;
+    box-sizing: border-box;
+    height: 160px;
     font-family: 'Courier New', monospace;
-    font-size: 20px;
+    font-size: 24px;
     background: #1e1e1e;
     color: #d4d4d4;
-    padding: 12px 16px;
     border-radius: 8px;
     margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
   }
   .blank {
     color: #ffcc00;
     font-weight: bold;
   }
   .variable {
-    font-size: 16px;
+    width: 100%;
+    font-size: 26px;
     color: #555;
     margin-bottom: 20px;
-    min-height: 20px;
+    min-height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 14px;
   }
   .buttons button {
+    width: 143px;
+    height: 143px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-family: 'Courier New', monospace;
-    font-size: 18px;
-    padding: 8px 18px;
-    margin: 0 6px;
+    font-size: 42px;
+    padding: 0;
     border: none;
-    border-radius: 6px;
+    border-radius: 8px;
     background: #007acc;
     color: #fff;
     cursor: pointer;
@@ -128,4 +150,4 @@ class Servidor:
 
 
 if __name__ == "__main__":
-    Servidor(host="localhost", puerto=443).iniciar()
+    Servidor(host="localhost", puerto=8080).iniciar()
